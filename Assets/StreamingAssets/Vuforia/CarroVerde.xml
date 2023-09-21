@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="carro_ver_20" size="10.000000 10.760000" />
+    <ImageTarget name="carro_ver_19" size="10.000000 10.733334" />
+    <ImageTarget name="carro_ver_18" size="10.000000 10.726666" />
+    <ImageTarget name="carro_ver_17" size="10.000000 10.653334" />
+    <ImageTarget name="carro_ver_16" size="10.000000 10.706667" />
+    <ImageTarget name="carro_ver_13_c" size="10.000000 10.793333" />
+    <ImageTarget name="carro_ver_15" size="10.000000 10.693334" />
+    <ImageTarget name="carro_ver_14" size="10.000000 10.900000" />
+    <ImageTarget name="carro_ver_13" size="10.000000 10.793333" />
+    <ImageTarget name="carro_ver_12" size="10.000000 10.773334" />
+    <ImageTarget name="carro_ver_11" size="10.000000 10.766666" />
+    <ImageTarget name="carro_ver_10" size="10.000000 10.940000" />
+    <ImageTarget name="carro_ver_09" size="10.000000 10.740000" />
+    <ImageTarget name="carro_ver_08" size="10.000000 10.800000" />
+    <ImageTarget name="carro_ver_07" size="10.000000 10.773334" />
+    <ImageTarget name="carro_ver_06" size="10.000000 10.833333" />
+    <ImageTarget name="carro_ver_05" size="10.000000 10.806666" />
+    <ImageTarget name="carro_ver_04" size="10.000000 10.806666" />
+    <ImageTarget name="carro_ver_03" size="10.000000 10.220000" />
+    <ImageTarget name="carro_ver_02" size="10.000000 9.916434" />
+    <ImageTarget name="carro_ver_01" size="10.000000 10.186666" />
+  </Tracking>
+</QCARConfig>
