@@ -10,6 +10,10 @@ A demonstration video is available on YouTube:
 
 
 # Full Version
-GitHub does not allow large files. So the full project, with all files, including the Library folder is available on Google Drive:
+GitHub does not allow large files (larger than 25MB). So the full project, with all files, including the Library folder is available on Google Drive:
 
 https://drive.google.com/file/d/1XoDzyTRM83FwjOEGwirXcmDpHMd21ypW/view?usp=sharing
+
+
+# Application binary apk
+https://drive.google.com/file/d/16a1XydHFloRc94w2IPqCA174xsiwYbkw/view?usp=sharing
