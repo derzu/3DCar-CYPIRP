@@ -16,4 +16,5 @@ https://drive.google.com/file/d/1XoDzyTRM83FwjOEGwirXcmDpHMd21ypW/view?usp=shari
 
 
 # Application binary apk
-https://drive.google.com/file/d/16a1XydHFloRc94w2IPqCA174xsiwYbkw/view?usp=sharing
+
+https://drive.google.com/file/d/1QqGNSKRz7FU68mBkqIh3O-k2hTn61tLw/view?usp=sharing
